@@ -1,16 +1,31 @@
 # moslam
 
-A new Flutter project.
+update Project of islam app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+moslam app
 
-A few resources to get you started if this is your first Flutter project:
+It consists of 5 screens:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Quraan screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hadeth screen
+
+Sebha screen
+
+Radio screen
+
+Settings screen
+
+using:
+
+Api
+
+provider statement
+
+shared prefrences
+
+Themes(light - Dark )
+
+Flutter Localization(en - ar)
